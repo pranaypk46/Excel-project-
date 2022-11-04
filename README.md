@@ -3,11 +3,10 @@ TOOLS USED
 
 MICROSOFT EXCEL 2019
 
-PROJECT 1  ( bIKE DATA ANALYSIS DASHBOARD / REPORT )
+----------->    PROJECT 1  ( bIKE DATA ANALYSIS DASHBOARD / REPORT )
 
 -----Clean the Dataset 
 -----create a chart report /dashboard which is easier to understand it should have filter as per category 
-
 
 
 
@@ -28,7 +27,12 @@ PROJECT 1  ( bIKE DATA ANALYSIS DASHBOARD / REPORT )
    )
 
 
-
+|
+|
+|
+|
+|
+---------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -47,7 +51,11 @@ Create a Reports /visual dashboard to see a particular employee have been comple
 
 
 
-
+|
+|
+|
+|
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
