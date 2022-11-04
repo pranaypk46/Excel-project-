@@ -16,8 +16,9 @@ MICROSOFT EXCEL 2019
 ---- Checked the duplicates values, and removed them
 ---- checked the Null values, and checked each of column the data is filled correctly 
 ----checked the amount values in tables which is currency format or not, changed it to currency format if it is not there 
-
 ----check all the filter section, whether all spelling is correct
+
+
 
   (Making of chart and dashboard)
    (
