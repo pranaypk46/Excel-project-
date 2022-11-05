@@ -10,17 +10,17 @@ DATASET USED FROM KAGGLE/YOUTUBE
 
 
 
------------>    PROJECT 1  ( bIKE DATA ANALYSIS DASHBOARD / REPORT )
+----------->    PROJECT 1  ( BIKE DATA ANALYSIS DASHBOARD / REPORT )
 
 
-   (project Requirement)
+    (project Requirement)
 
------Clean the Dataset 
------create a chart report /dashboard which is easier to understand it should have filter as per category 
+      -----Clean the Dataset 
+      -----create a chart report /dashboard which is easier to understand it should have filter as per category 
 
 
 
-  (Task involved in project)
+      (Task involved in project)
   
   
       (Cleaning of dataset)
@@ -83,14 +83,14 @@ PROJECT 3 (AUTOMATIC SALARY CALCULATED AS PER ATTENDANCE REPORTS)
 
 
 
- (Project Requirement)
----Create a automatic salary summary report should be calculated on the basis of attendance report
+      (Project Requirement)
+         ---Create a automatic salary summary report should be calculated on the basis of attendance report
 
 
 
  
-(Task Involvement in project)
----conditional statements and aggregate formulas is used in data sheet
+      (Task Involvement in project)
+         ---conditional statements and aggregate formulas is used in data sheet
 
 
 
