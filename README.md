@@ -3,7 +3,17 @@ TOOLS USED
 
 MICROSOFT EXCEL 2019
 
+
+
+DATASET USED FROM KAGGLE/YOUTUBE
+
+
+
+
 ----------->    PROJECT 1  ( bIKE DATA ANALYSIS DASHBOARD / REPORT )
+
+
+   (project Requirement)
 
 -----Clean the Dataset 
 -----create a chart report /dashboard which is easier to understand it should have filter as per category 
@@ -40,20 +50,24 @@ MICROSOFT EXCEL 2019
 
 
 
+
+
+
 PROJECT 2 (EMPLOYEES MONTHLY AND YEARLY TARGETS DASHBOARD )
 
-  (Project Requirement)
-Create a Reports /visual dashboard to see a particular employee have been completed how much targets monthly and yearly wise 
+      (Project Requirement)
+      Create a Reports /visual dashboard to see a particular employee have been completed how much targets monthly and yearly wise 
 
 
 
-(Task Involvement in project)
---- conditional statements is used in data sheet
---- scattered lie chart is applied on data sheet
- ---conditional formatting is used  
+      (Task Involvement in project)
+        --- conditional statements is used in data sheet
+        --- scattered lie chart is applied on data sheet
+          ---conditional formatting is used  
 
 
 
+|
 |
 |
 |
@@ -63,15 +77,29 @@ Create a Reports /visual dashboard to see a particular employee have been comple
 
 
 
+
+
 PROJECT 3 (AUTOMATIC SALARY CALCULATED AS PER ATTENDANCE REPORTS)
+
+
 
  (Project Requirement)
 ---Create a automatic salary summary report should be calculated on the basis of attendance report
 
+
+
  
 (Task Involvement in project)
 ---conditional statements and aggregate formulas is used in data sheet
+
+
+
  
+ |
+ |
+ |
+ |
+ |
    
  
 
